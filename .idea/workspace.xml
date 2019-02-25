@@ -2,34 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2cf8e46-5b67-47ee-ac8c-3cbd078fff78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_back_end.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/AddElementInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/CalculateTheTotalDiagonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/CalculateTotalColume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/CountCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/FindMaxIn2_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/MineSweeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/SmallValueInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Temperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/findSmaller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/findValueInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/findbiggestValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GreatestCommonDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prime20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrintForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RactangleProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SystemTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/equation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/month.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prime100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/01.IntroductionProgramming/01.Baitap1" beforeDir="false" afterPath="$PROJECT_DIR$/../01.BootcampPreparation/01.IntroductionProgramming/01.Baitap1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/03.ConditionalStructure/dientichhinhvuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/../01.BootcampPreparation/03.ConditionalStructure/dientichhinhvuong.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/04.Loop/GameCaro.html" beforeDir="false" />
@@ -57,15 +29,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/findSmaller.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Prime20.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -79,11 +42,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Array/CalculateTheTotalDiagonal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
               <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SystemTime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -152,7 +124,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -233,7 +205,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550891926153" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551069080833" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -348,12 +320,12 @@
       <workItem from="1550644941113" duration="10929000" />
       <workItem from="1550665267228" duration="35045000" />
       <workItem from="1550886302419" duration="5851000" />
-      <workItem from="1551063685951" duration="1223000" />
+      <workItem from="1551063685951" duration="1697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64857000" />
+    <option name="totallyTimeSpent" value="65331000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -375,7 +347,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3045326" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -594,13 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SystemTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/prime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -727,6 +692,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
