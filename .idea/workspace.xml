@@ -2,6 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2cf8e46-5b67-47ee-ac8c-3cbd078fff78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_back_end.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/AdstractAndIneterfaceTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/CircleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/CircleComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/RectangleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/RectangleComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/ResizeableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/edible/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/fruit/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/fruit/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/fruit/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/AddElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/CalculateTheTotalDiagonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/CalculateTotalColume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/CountCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/FindMaxIn2_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MineSweeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/SmallValueInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/findSmaller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/findValueInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/findbiggestValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/ChuNhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/MoveablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/SimpleCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/TheCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionFramwork/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionFramwork/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionFramwork/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollectionFramwork/TestMyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Start_Java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Start_Java/equation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Start_Java/prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Start_Java/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Start_Java/year.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/year.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/01.IntroductionProgramming/01.Baitap1" beforeDir="false" afterPath="$PROJECT_DIR$/../01.BootcampPreparation/01.IntroductionProgramming/01.Baitap1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/03.ConditionalStructure/dientichhinhvuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/../01.BootcampPreparation/03.ConditionalStructure/dientichhinhvuong.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/04.Loop/GameCaro.html" beforeDir="false" />
@@ -18,6 +84,27 @@
       <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/06.Jaw/practice_02.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/06.Jaw/practice_03.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/abc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_back_end/GreatestCommonDivisor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_back_end/Prime20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_back_end/PrintForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_back_end/RactangleProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_back_end/SystemTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_back_end/hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_back_end/month.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_back_end/prime100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_back_end/programMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_back_end/variable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GreatestCommonDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Java/GreatestCommonDivisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prime20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Java/Prime20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrintForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Java/PrintForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RactangleProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Java/RactangleProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SystemTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Java/SystemTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Java/hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Java/month.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prime100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Java/prime100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Java/programMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Java/variable.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,88 +115,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Prime20.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/AddElementInArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/CalculateTheTotalDiagonal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SystemTime.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaCollectionFramwork/TestMyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="275">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/CalculateTotalColume.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaCollectionFramwork/MyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/prime100.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="30" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PrintForm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/programMenu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RactangleProgram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="44" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Array/FindMaxIn2_Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+            <state relative-caret-position="71">
+              <caret line="109" column="26" lean-forward="true" selection-start-line="109" selection-start-column="26" selection-end-line="109" selection-end-column="26" />
+              <folding>
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#2326#2327#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,9 +143,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fan3</find>
+      <find>Rectangle</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>The_Rectangle</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -129,41 +163,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/SystemTime.java" />
-        <option value="$PROJECT_DIR$/src/variable.java" />
-        <option value="$PROJECT_DIR$/src/RactangleProgram.java" />
-        <option value="$PROJECT_DIR$/src/equation.java" />
-        <option value="$PROJECT_DIR$/src/month.java" />
-        <option value="$PROJECT_DIR$/src/prime.java" />
-        <option value="$PROJECT_DIR$/src/hello.java" />
-        <option value="$PROJECT_DIR$/src/year.java" />
-        <option value="$PROJECT_DIR$/src/programMenu.java" />
-        <option value="$PROJECT_DIR$/src/GreatestCommonDivisor.java" />
-        <option value="$PROJECT_DIR$/src/prime100.java" />
-        <option value="$PROJECT_DIR$/src/Prime20.java" />
-        <option value="$PROJECT_DIR$/src/PrintForm.java" />
-        <option value="$PROJECT_DIR$/src/test.java" />
-        <option value="$PROJECT_DIR$/src/Temperature.java" />
-        <option value="$PROJECT_DIR$/src/Array/findValueInArray.java" />
-        <option value="$PROJECT_DIR$/src/Array/findbiggestValue.java" />
-        <option value="$PROJECT_DIR$/src/Array/ReverseArray.java" />
-        <option value="$PROJECT_DIR$/src/Array/SmallValueInArray.java" />
-        <option value="$PROJECT_DIR$/src/Array/AddElementInArray.java" />
-        <option value="$PROJECT_DIR$/src/Array/FindMaxIn2_Arrays.java" />
-        <option value="$PROJECT_DIR$/src/Array/MineSweeper.java" />
-        <option value="$PROJECT_DIR$/src/Array/findSmaller.java" />
-        <option value="$PROJECT_DIR$/src/Array/CountCharacters.java" />
-        <option value="$PROJECT_DIR$/src/Array/CalculateTotalColume.java" />
-        <option value="$PROJECT_DIR$/src/Array/CalculateTheTotalDiagonal.java" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/StopWatch.java" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/test.java" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/ChuNhat.java" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/Fan.java" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/Person.java" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/TheCircle.java" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/Point2D.java" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/Point3D.java" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/MoveablePoint.java" />
+        <option value="$PROJECT_DIR$/src/animal/Tiger.java" />
+        <option value="$PROJECT_DIR$/src/animal/Animal.java" />
+        <option value="$PROJECT_DIR$/src/animal/edible/Edible.java" />
+        <option value="$PROJECT_DIR$/src/edible/Edible.java" />
+        <option value="$PROJECT_DIR$/src/animal/Chicken.java" />
+        <option value="$PROJECT_DIR$/src/animal/AdstractAndIneterfaceTests.java" />
+        <option value="$PROJECT_DIR$/src/Start_Java/RactangleProgram.java" />
+        <option value="$PROJECT_DIR$/src/Start_Java/prime100.java" />
+        <option value="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/edible/Edible.java" />
+        <option value="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/fruit/Fruit.java" />
+        <option value="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/fruit/Apple.java" />
+        <option value="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/fruit/Orange.java" />
+        <option value="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/AdstractAndIneterfaceTests.java" />
+        <option value="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/Comparator.java" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/The_Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/ShapeTest.java" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/CircleTest.java" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/RectangleTest.java" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/SquareTest.java" />
+        <option value="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/RectangleComparator.java" />
+        <option value="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/CircleComparatorTest.java" />
+        <option value="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/RectangleComparatorTest.java" />
+        <option value="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/CircleComparator.java" />
+        <option value="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/CricleResizeable.java" />
+        <option value="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/Resizeable.java" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/Circle.java" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/ResizeableCircleTest.java" />
+        <option value="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/Colorable.java" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/Square.java" />
+        <option value="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/SquareTest.java" />
+        <option value="$PROJECT_DIR$/src/JavaCollectionFramwork/MyList1.java" />
+        <option value="$PROJECT_DIR$/src/JavaCollectionFramwork/MyAbstractList1.java" />
+        <option value="$PROJECT_DIR$/src/ClassAndObject/Shape.java" />
+        <option value="$PROJECT_DIR$/src/JavaCollectionFramwork/MyArrayList.java" />
+        <option value="$PROJECT_DIR$/src/JavaCollectionFramwork/TestMyArrayList.java" />
+        <option value="$PROJECT_DIR$/src/JavaCollectionFramwork/MyList.java" />
+        <option value="$PROJECT_DIR$/src/JavaCollectionFramwork/MyListTest.java" />
+        <option value="$PROJECT_DIR$/src/JavaCollectionFramwork/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/JavaCollectionFramwork/TestMyLinkedList.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="410" />
-    <option name="y" value="15" />
-    <option name="width" value="1145" />
-    <option name="height" value="975" />
+    <option name="x" value="855" />
+    <option name="y" value="145" />
+    <option name="width" value="950" />
+    <option name="height" value="875" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -171,8 +229,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,7 +252,19 @@
               <item name="java_back_end" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_back_end" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
+              <item name="animal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_back_end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_back_end" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassAndObject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_back_end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_back_end" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaCollectionFramwork" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -205,10 +275,17 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551069080833" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551930400625" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\WORKSPACE\CodeGym-MinhNhat\java_back_end\src\Start_Java" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -222,13 +299,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CalculateTheTotalDiagonal">
-    <configuration name="CalculateTheTotalDiagonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.CalculateTheTotalDiagonal" />
+  <component name="RunManager" selected="Application.TestMyLinkedList">
+    <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCollectionFramwork.MyListTest" />
       <module name="java_back_end" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="JavaCollectionFramwork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,12 +313,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculateTotalColume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.CalculateTotalColume" />
+    <configuration name="RectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassAndObject.RectangleTest" />
       <module name="java_back_end" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="ClassAndObject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,12 +326,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.CountCharacters" />
+    <configuration name="SquareTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedObjectOrientedDesign.animal.SquareTest" />
       <module name="java_back_end" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="AdvancedObjectOrientedDesign.animal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,12 +339,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MineSweeper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.MineSweeper" />
+    <configuration name="TestMyArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCollectionFramwork.TestMyArrayList" />
       <module name="java_back_end" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="JavaCollectionFramwork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +352,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findSmaller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.findSmaller" />
+    <configuration name="TestMyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCollectionFramwork.TestMyLinkedList" />
       <module name="java_back_end" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="JavaCollectionFramwork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,19 +366,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MineSweeper" />
-      <item itemvalue="Application.findSmaller" />
-      <item itemvalue="Application.CountCharacters" />
-      <item itemvalue="Application.CalculateTheTotalDiagonal" />
-      <item itemvalue="Application.CalculateTotalColume" />
+      <item itemvalue="Application.SquareTest" />
+      <item itemvalue="Application.MyListTest" />
+      <item itemvalue="Application.RectangleTest" />
+      <item itemvalue="Application.TestMyArrayList" />
+      <item itemvalue="Application.TestMyLinkedList" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculateTheTotalDiagonal" />
-        <item itemvalue="Application.CalculateTotalColume" />
-        <item itemvalue="Application.CountCharacters" />
-        <item itemvalue="Application.MineSweeper" />
-        <item itemvalue="Application.findSmaller" />
+        <item itemvalue="Application.TestMyLinkedList" />
+        <item itemvalue="Application.MyListTest" />
+        <item itemvalue="Application.TestMyArrayList" />
+        <item itemvalue="Application.RectangleTest" />
+        <item itemvalue="Application.SquareTest" />
       </list>
     </recent_temporary>
   </component>
@@ -320,12 +397,26 @@
       <workItem from="1550644941113" duration="10929000" />
       <workItem from="1550665267228" duration="35045000" />
       <workItem from="1550886302419" duration="5851000" />
-      <workItem from="1551063685951" duration="1697000" />
+      <workItem from="1551063685951" duration="2416000" />
+      <workItem from="1551102297219" duration="570000" />
+      <workItem from="1551161784956" duration="13015000" />
+      <workItem from="1551187734988" duration="577000" />
+      <workItem from="1551234191715" duration="12452000" />
+      <workItem from="1551275725081" duration="591000" />
+      <workItem from="1551319351415" duration="7484000" />
+      <workItem from="1551359790171" duration="14871000" />
+      <workItem from="1551404376020" duration="28912000" />
+      <workItem from="1551581106673" duration="1643000" />
+      <workItem from="1551593378368" duration="19817000" />
+      <workItem from="1551764211790" duration="11979000" />
+      <workItem from="1551796175267" duration="9536000" />
+      <workItem from="1551854723944" duration="16272000" />
+      <workItem from="1551921800859" duration="7813000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65331000" />
+    <option name="totallyTimeSpent" value="211582000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -338,8 +429,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13154362" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23154363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -347,18 +439,18 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3045326" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.407932" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.398017" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297546" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32922536" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.30028328" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.9447592" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -369,6 +461,37 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23154363" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.407932" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38243628" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297546" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32922536" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.9447592" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -425,40 +548,112 @@
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/month.java</url>
+          <url>file://$PROJECT_DIR$/src/Start_Java/month.java</url>
           <line>3</line>
           <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/month.java</url>
+          <url>file://$PROJECT_DIR$/src/Start_Java/month.java</url>
           <line>5</line>
           <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/month.java</url>
+          <url>file://$PROJECT_DIR$/src/Start_Java/month.java</url>
           <line>6</line>
           <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/month.java</url>
+          <url>file://$PROJECT_DIR$/src/Start_Java/month.java</url>
           <line>14</line>
           <properties />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/month.java</url>
+          <url>file://$PROJECT_DIR$/src/Start_Java/month.java</url>
           <line>20</line>
           <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/month.java</url>
+          <url>file://$PROJECT_DIR$/src/Start_Java/month.java</url>
           <line>23</line>
           <properties />
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ClassAndObject/MyClass.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ClassAndObject/MyClass.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ClassAndObject/MyClass.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ClassAndObject/MyClass.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ClassAndObject/MyClass.java</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ClassAndObject/ChuNhat.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ClassAndObject/ChuNhat.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ClassAndObject/ChuNhat.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ClassAndObject/MyClass.java</url>
+          <line>9</line>
+          <properties class="ClassAndObject.MyClass1" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ClassAndObject/Fan.java</url>
+          <line>11</line>
+          <properties class="ClassAndObject.Fan" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ClassAndObject/Fan.java</url>
+          <line>54</line>
+          <properties class="ClassAndObject.Fan" method="setSpeed">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -473,232 +668,376 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/.editorconfig" />
-    <entry file="file://$PROJECT_DIR$/src/math.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="756" selection-start-line="756" selection-end-line="756" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="622" selection-start-line="622" selection-end-line="622" />
-          <folding>
-            <element signature="e#22821#22822#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/BufferedWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="219" selection-start-line="219" selection-end-line="219" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/Writer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="157" selection-start-line="157" selection-end-line="157" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="669" selection-start-line="669" selection-end-line="669" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-          <folding>
-            <element signature="e#64#65#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/equation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/year.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GreatestCommonDivisor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/variable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="21" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/month.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/Temperature.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/SmallValueInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/MineSweeper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/CountCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/findbiggestValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/findValueInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/ReverseArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/findSmaller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prime20.java">
+    <entry file="file://$PROJECT_DIR$/src/Start_Java/prime.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/AddElementInArray.java">
+    <entry file="file://$PROJECT_DIR$/src/Start_Java/hello.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prime100.java" />
+    <entry file="file://$PROJECT_DIR$/src/Start_Java/prime100.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/CalculateTotalColume.java">
+    <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/fruit/Apple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/prime100.java">
+    <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/fruit/Orange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="30" />
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PrintForm.java">
+    <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/Comparator.java" />
+    <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/fruit/Fruit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/programMenu.java">
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/The_Rectangle.java" />
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/ShapeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RactangleProgram.java">
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/SquareTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/RectangleComparatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/edible/Edible.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="301" column="8" lean-forward="true" selection-start-line="301" selection-start-column="8" selection-end-line="301" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/CricleResizeable.java" />
+    <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/Resizeable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="44" />
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/FindMaxIn2_Arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/Colorable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/CalculateTheTotalDiagonal.java">
+    <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/AdstractAndIneterfaceTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="406">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SystemTime.java">
+    <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/Chicken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/CircleComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/CircleComparatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="114" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="114" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/Tiger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/ResizeableCircleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/CircleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/Fan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/MoveablePoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/Point2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/Point3D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/StopWatch.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/TheCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+          <folding>
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/SquareTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/QuadraticEquation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/SimpleCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/RectangleComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+          <folding>
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#1211#1212#0" expanded="true" />
+            <element signature="e#1259#1260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassAndObject/RectangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCollectionFramwork/MyList1.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaCollectionFramwork/MyAbstractList1.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaCollectionFramwork/MyArrayList.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaCollectionFramwork/TestMyArrayList.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaCollectionFramwork/MyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCollectionFramwork/MyListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCollectionFramwork/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="109" column="26" lean-forward="true" selection-start-line="109" selection-start-column="26" selection-end-line="109" selection-end-column="26" />
+          <folding>
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#2326#2327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaCollectionFramwork/TestMyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
