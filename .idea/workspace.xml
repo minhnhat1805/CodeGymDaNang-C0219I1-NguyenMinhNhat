@@ -2,109 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2cf8e46-5b67-47ee-ac8c-3cbd078fff78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_back_end.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/AdstractAndIneterfaceTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/CircleComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/CircleComparatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/Colorable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/RectangleComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/RectangleComparatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/Resizeable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/ResizeableCircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/SquareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/edible/Edible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/fruit/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/fruit/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/fruit/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/AddElementInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/CalculateTheTotalDiagonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/CalculateTotalColume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/CountCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/FindMaxIn2_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/MineSweeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/SmallValueInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Temperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/findSmaller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/findValueInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/findbiggestValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/ChuNhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/MoveablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/QuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/RectangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/ShapeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/SimpleCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/SquareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/StopWatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/TheCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassAndObject/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCollectionFramwork/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCollectionFramwork/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCollectionFramwork/MyListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCollectionFramwork/TestMyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Start_Java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Start_Java/equation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Start_Java/prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Start_Java/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Start_Java/year.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/equation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/year.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Refactory/TennisGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Refactory/TennisGameTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/01.IntroductionProgramming/01.Baitap1" beforeDir="false" afterPath="$PROJECT_DIR$/../01.BootcampPreparation/01.IntroductionProgramming/01.Baitap1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/03.ConditionalStructure/dientichhinhvuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/../01.BootcampPreparation/03.ConditionalStructure/dientichhinhvuong.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/04.Loop/GameCaro.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/04.Loop/dayFibonacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/../01.BootcampPreparation/04.Loop/dayFibonacy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/04.Loop/gamcaro___.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/06.Jaw/Foot_Meter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/06.Jaw/HamKiemTraSoNguyenTo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/06.Jaw/jaw01_1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/06.Jaw/jaw01_2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/06.Jaw/jaw01_3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/06.Jaw/jaw01_4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/06.Jaw/jaw01_5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/06.Jaw/practice_01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/06.Jaw/practice_02.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/06.Jaw/practice_03.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01.BootcampPreparation/abc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-cleancode-refactoring-exercise" beforeDir="false" afterPath="$PROJECT_DIR$/../java-cleancode-refactoring-exercise" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-cleancode-refactoring-method-extraction" beforeDir="false" afterPath="$PROJECT_DIR$/../java-cleancode-refactoring-method-extraction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-cleancode-refactoring-renaming" beforeDir="false" afterPath="$PROJECT_DIR$/../java-cleancode-refactoring-renaming" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-cleancode-refactoring-variable-extraction" beforeDir="false" afterPath="$PROJECT_DIR$/../java-cleancode-refactoring-variable-extraction" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_back_end/GreatestCommonDivisor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_back_end/Prime20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_back_end/PrintForm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_back_end/RactangleProgram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_back_end/SystemTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_back_end/hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_back_end/month.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_back_end/prime100.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_back_end/programMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_back_end/variable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GreatestCommonDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Java/GreatestCommonDivisor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Prime20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Java/Prime20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrintForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Java/PrintForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RactangleProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Java/RactangleProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SystemTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Java/SystemTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Java/hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Java/month.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prime100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Java/prime100.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Java/programMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start_Java/variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server_time/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../server_time/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server_time/src/ServerTimeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../server_time/src/ServerTimeServlet.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -115,24 +22,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaCollectionFramwork/TestMyLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaCollectionFramwork/MyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="109" column="26" lean-forward="true" selection-start-line="109" selection-start-column="26" selection-end-line="109" selection-end-column="26" />
+            <state relative-caret-position="510">
+              <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
               <folding>
+                <element signature="e#284#285#0" expanded="true" />
                 <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#2295#2296#0" expanded="true" />
                 <element signature="e#2326#2327#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Refactory/TennisGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Refactory/TennisGameTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,12 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ClassAndObject/StopWatch.java" />
-        <option value="$PROJECT_DIR$/src/ClassAndObject/test.java" />
-        <option value="$PROJECT_DIR$/src/ClassAndObject/ChuNhat.java" />
-        <option value="$PROJECT_DIR$/src/ClassAndObject/MyClass.java" />
-        <option value="$PROJECT_DIR$/src/ClassAndObject/Fan.java" />
-        <option value="$PROJECT_DIR$/src/ClassAndObject/Person.java" />
         <option value="$PROJECT_DIR$/src/ClassAndObject/TheCircle.java" />
         <option value="$PROJECT_DIR$/src/ClassAndObject/Point2D.java" />
         <option value="$PROJECT_DIR$/src/ClassAndObject/Point3D.java" />
@@ -212,8 +131,14 @@
         <option value="$PROJECT_DIR$/src/JavaCollectionFramwork/TestMyArrayList.java" />
         <option value="$PROJECT_DIR$/src/JavaCollectionFramwork/MyList.java" />
         <option value="$PROJECT_DIR$/src/JavaCollectionFramwork/MyListTest.java" />
-        <option value="$PROJECT_DIR$/src/JavaCollectionFramwork/MyLinkedList.java" />
         <option value="$PROJECT_DIR$/src/JavaCollectionFramwork/TestMyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/JavaCollectionFramwork/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/Refactor/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/Refactor/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/Refactory/TennisGame.java" />
+        <option value="$PROJECT_DIR$/src/Refactory/TennisGameTest.java" />
+        <option value="$PROJECT_DIR$/src/WebApplicationOverView/ServletLifeCycle.java" />
+        <option value="$PROJECT_DIR$/src/WebApplicationOverView/TestServlet.java" />
       </list>
     </option>
   </component>
@@ -229,8 +154,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -246,36 +169,41 @@
             <path>
               <item name="java_back_end" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_back_end" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_back_end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_back_end" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_back_end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_back_end" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_back_end" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_back_end" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="animal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_back_end" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_back_end" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ClassAndObject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_back_end" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_back_end" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaCollectionFramwork" type="462c0819:PsiDirectoryNode" />
+              <item name="WebApplicationOverView" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551930400625" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552967538122" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -365,6 +293,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_java_back_end" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51488" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.SquareTest" />
       <item itemvalue="Application.MyListTest" />
@@ -411,12 +401,21 @@
       <workItem from="1551764211790" duration="11979000" />
       <workItem from="1551796175267" duration="9536000" />
       <workItem from="1551854723944" duration="16272000" />
-      <workItem from="1551921800859" duration="7813000" />
+      <workItem from="1551921800859" duration="9664000" />
+      <workItem from="1551968257509" duration="4087000" />
+      <workItem from="1552021172109" duration="47000" />
+      <workItem from="1552053142207" duration="867000" />
+      <workItem from="1552269148411" duration="100000" />
+      <workItem from="1552274366400" duration="1538000" />
+      <workItem from="1552373452861" duration="591000" />
+      <workItem from="1552717154761" duration="803000" />
+      <workItem from="1552890767879" duration="3786000" />
+      <workItem from="1552901507363" duration="804000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="211582000" />
+    <option name="totallyTimeSpent" value="226056000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -429,9 +428,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23154363" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2657718" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -439,8 +437,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.407932" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.398017" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.407932" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.398017" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -448,7 +446,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32922536" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.9447592" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -668,42 +666,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Start_Java/prime.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Start_Java/hello.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prime100.java" />
-    <entry file="file://$PROJECT_DIR$/src/Start_Java/prime100.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/fruit/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/fruit/Orange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/Comparator.java" />
     <entry file="file://$PROJECT_DIR$/src/AdvancedObjectOrientedDesign/animal/fruit/Fruit.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1022,22 +984,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Refactor/CalculatorTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Refactor/Calculator.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaCollectionFramwork/TestMyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaCollectionFramwork/MyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="109" column="26" lean-forward="true" selection-start-line="109" selection-start-column="26" selection-end-line="109" selection-end-column="26" />
+        <state relative-caret-position="510">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
           <folding>
+            <element signature="e#284#285#0" expanded="true" />
             <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#2295#2296#0" expanded="true" />
             <element signature="e#2326#2327#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaCollectionFramwork/TestMyLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/Refactory/TennisGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="969">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Refactory/TennisGameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WebApplicationOverView/ServletLifeCycle.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WebApplicationOverView/TestServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
